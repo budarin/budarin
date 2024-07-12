@@ -9,7 +9,7 @@
 
 Мои ключевые навыки включают:
 
-- Базы данных: практически все, но наиболее любимая - PosthreSQL
+- Базы данных: практически все, но наиболее любимая - PostgreSQL
 - Языки программирования: JavaScript (ES6+), TypeScript
 - Фреймворки и библиотеки: React, Zustand, Fastify, Pino, Ajv
 - Инструменты и технологии: Webpack, Vite, Babel, Git, Docker, PWA, ServiceWorker, БЭМ, AI
