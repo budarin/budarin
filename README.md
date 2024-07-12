@@ -11,8 +11,8 @@
 
 - Базы данных: практически все, но наиболее любимая - PosthreSQL
 - Языки программирования: JavaScript (ES6+), TypeScript
-- Фреймворки и библиотеки: React, Zustand, Fastify, Pino, Ajv, ServiceWorker
-- Инструменты и технологии: Webpack, Vite, Babel, Git, Docker, PWA, AI, БЭМ
+- Фреймворки и библиотеки: React, Zustand, Fastify, Pino, Ajv
+- Инструменты и технологии: Webpack, Vite, Babel, Git, Docker, PWA, ServiceWorker, БЭМ, AI
 - Архитектурный шаблон: слоёная адаптивная архитектура
 
 Сейчас активно работаю над своим пэт-проектом ["Мои задачи AI+"](https://github.com/budarin/my-tasks), в котором собраны все ключевые современные техники и технологии разработки PWA-приложения с использованием AI.
