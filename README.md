@@ -13,6 +13,8 @@
 - Инструменты и технологии: Webpack, Vite, Babel, Git, Docker, PWA, AI, БЭМ
 - Архитектурный шаблон: слоёная адаптивная архитектура
 
+Сейчас активно работаю над своим пэт-проектом ["Мои задачи AI+"](https://github.com/budarin/my-tasks), в котором собраны все ключевые современные техники и технологии разработки PWA-приложения с использованием AI.
+
 Вы можете связаться со мной при помощи budarin-vv@yandex.ru.
 <!--
 **budarin/budarin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
