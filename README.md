@@ -18,6 +18,10 @@
 Сейчас активно работаю над своим пэт-проектом ["Мои задачи AI+"](https://github.com/budarin/my-tasks), в котором собраны все ключевые современные техники и технологии разработки PWA-приложения с использованием AI.
 
 Вы можете связаться со мной при помощи budarin-vv@yandex.ru.
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=budarin)
+
+
 <!--
 **budarin/budarin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
