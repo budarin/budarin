@@ -11,7 +11,7 @@
 
 - Базы данных: практически все, но наиболее любимая - PostgreSQL
 - Языки программирования: JavaScript (ES6+), TypeScript
-- Фреймворки и библиотеки: React, Zustand, Fastify, Pino, Ajv
+- Фреймворки и библиотеки: Node, React, Zustand, Fastify, Pino, Ajv
 - Инструменты и технологии: Webpack, Vite, Babel, Git, Docker, PWA, ServiceWorker, БЭМ, AI
 - Архитектурный шаблон: слоёная адаптивная архитектура
 
