@@ -8,10 +8,10 @@
 
 Работаю как Architect IC: проектирую систему целиком, реализую критический путь, обеспечиваю эксплуатацию. Часто — в условиях отсутствия IT-структуры.
 
-Chat GPT-5 лестно обо мне: https://github.com/budarin/prompt-for-hr/blob/master/prompt/chat-gpt-5-summary.md
-
 Последние несколько лет я работал над различными PWA проектами, используя PostgreSQL, Docker, Fastify, React и TypeScript. <br />
 Мне нравится делиться знаниями и учиться у сообщества, поэтому я активно участвую в open-source проектах и пишу технические статьи, веду свой технический блог. 
+
+Chat GPT-5 лестно обо мне: https://github.com/budarin/prompt-for-hr/blob/master/prompt/chat-gpt-5-summary.md
 
 Мои ключевые знания и навыки:
 
