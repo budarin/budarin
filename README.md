@@ -1,6 +1,6 @@
 ## Привет ! 👋
 
-Меня зовут Вадим, и я профессиональный Архитектор ПО / Principal Software Architect (Web PWA Platform). 
+Меня зовут Вадим, и я профессиональный Архитектор ПО / Staff Software Architect (Web PWA Platform). 
 
 Инженер с 20+ годами опыта проектирования и вывода в production сложных web-систем: PWA, микросервисы, BFF, базы данных, платформенные frontend-решения.
 
