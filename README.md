@@ -26,6 +26,14 @@ Chat GPT-5 лестно обо мне: https://github.com/budarin/prompt-for-hr/
 - Производительность: разрабатываю эффективный код, произвожу оптимизации при проектировании и сборке кода. Пишу бенчмарки и транспиляторы, улучшающие производительность кода.
 - ИИ: использую Cursor AI для разработки.
 
+Пишу статьи, делюсь опытом в своем технологическом блоге:
+- GitHub: https://github.com/budarin
+- NPM: https://www.npmjs.com/~budarin
+- Telegram blog: https://t.me/budarin_dev
+- Medium: https://medium.com/@vadim-budarin
+- Dev.to: https://dev.to/budarin
+- Хабр: https://habr.com/ru/users/Budarin/articles/
+
 Вы можете связаться со мной при помощи budarin-vv@yandex.ru.
 
 <!--
